@@ -201,6 +201,18 @@ var exportGroups = [
         handleExport: defaultExport
       }
     ]
+  },
+  {
+    groupName: 'Itunes Artwork',
+    options: [
+      {
+        name: '1024pt',
+        tip: 'Itunes Artwork',
+        size: 1024,
+        enabled: false,
+        handleExport: defaultExport
+      }
+    ]
   }
 ];
 

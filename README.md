@@ -2,7 +2,7 @@ Export AppIcons
 ================
 
 Script for Adobe Illustrator to export icons for ios app AppIcon
-and for itunesConenect.
+and for Itunes artwork.
 
 ![Result](/result.png)
 
