@@ -242,7 +242,6 @@ if (document && document.artboards.length > 0) {
 
   var okButton = dialog.add('group').add('button', undefined, 'Export');
   okButton.onClick = function() {
-    try {
     for (var i = 0; i < document.artboards.length; i++) {
       if (exportableArtboards[i]) exportableArtboardsCount++;
     }
@@ -259,9 +258,6 @@ if (document && document.artboards.length > 0) {
       }
     }
     dialog.close();
-    } catch (e) {
-      alert(e.message)
-    }
   };
 
   dialog.show();
