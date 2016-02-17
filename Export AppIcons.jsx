@@ -1,5 +1,5 @@
 /*
- * Export AppIcon v0.0.1
+ * Export AppIcon v0.0.2
  * Get the latest version at https://github.com/andykog/ExportAppIcon
  */
 
@@ -45,42 +45,42 @@ var exportGroups = [
     options: [
       {
         name: '29pt @2x',
-        tip: 'iPhone Spotlight iOS 5,6; Settings iOS 5–9',
+        tip: 'iPhone Spotlight iOS 5,6; Settings iOS 5-9',
         size: 58,
         enabled: true,
         handleExport: defaultExport
       },
       {
         name: '29pt @3x',
-        tip: 'iPhone Spotlight iOS 5,6; Settings iOS 5–9',
+        tip: 'iPhone Spotlight iOS 5,6; Settings iOS 5-9',
         size: 87,
         enabled: true,
         handleExport: defaultExport
       },
       {
         name: '40pt @2x',
-        tip: 'iPhone Spotlight iOS 7–9',
+        tip: 'iPhone Spotlight iOS 7-9',
         size: 80,
         enabled: true,
         handleExport: defaultExport
       },
       {
         name: '40pt @3x',
-        tip: 'iPhone Spotlight iOS 7–9',
+        tip: 'iPhone Spotlight iOS 7-9',
         size: 120,
         enabled: true,
         handleExport: defaultExport
       },
       {
         name: '60pt @2x',
-        tip: 'iPhone App iOS 7–9',
+        tip: 'iPhone App iOS 7-9',
         size: 120,
         enabled: true,
         handleExport: defaultExport
       },
       {
         name: '60pt @3x',
-        tip: 'iPhone App iOS 7–9',
+        tip: 'iPhone App iOS 7-9',
         size: 180,
         enabled: true,
         handleExport: defaultExport
@@ -92,49 +92,49 @@ var exportGroups = [
     options: [
       {
         name: '29pt @1x',
-        tip: 'iPad Settings iOS 5–9',
+        tip: 'iPad Settings iOS 5-9',
         size: 29,
         enabled: true,
         handleExport: defaultExport
       },
       {
         name: '29pt @2x',
-        tip: 'iPad Settings iOS 5–9',
+        tip: 'iPad Settings iOS 5-9',
         size: 58,
         enabled: true,
         handleExport: defaultExport
       },
       {
         name: '40pt @1x',
-        tip: 'iPad Spotlight iOS 7–9',
+        tip: 'iPad Spotlight iOS 7-9',
         size: 40,
         enabled: true,
         handleExport: defaultExport
       },
       {
         name: '40pt @2x',
-        tip: 'iPad Spotlight iOS 7–9',
+        tip: 'iPad Spotlight iOS 7-9',
         size: 80,
         enabled: true,
         handleExport: defaultExport
       },
       {
         name: '76pt @1x',
-        tip: 'iPad App iOS 7–9',
+        tip: 'iPad App iOS 7-9',
         size: 76,
         enabled: true,
         handleExport: defaultExport
       },
       {
         name: '76pt @2x',
-        tip: 'iPad App iOS 7–9',
+        tip: 'iPad App iOS 7-9',
         size: 152,
         enabled: true,
         handleExport: defaultExport
       },
       {
         name: '83.5pt @2x',
-        tip: 'iPad Pro App iOS 7–9',
+        tip: 'iPad Pro App iOS 7-9',
         size: 167,
         enabled: true,
         handleExport: defaultExport
