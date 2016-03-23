@@ -23,3 +23,4 @@ Choose `File > Scripts > Export AppIcons`
 
 ![Dialog](/dialog.png)
 
+:point_up: You can export all icons in your `AppIcon.appiconset` and place place [this Contents.json](/Contents.json) there to not manually add images via Xcode.

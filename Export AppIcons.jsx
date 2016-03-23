@@ -196,14 +196,14 @@ var exportGroups = [
       {
         name: '98pt @2x',
         tip: 'Apple Watch Short Look 42 mm',
-        size: 176,
+        size: 196,
         enabled: true,
         handleExport: defaultExport
       }
     ]
   },
   {
-    groupName: 'Itunes Artwork',
+    groupName: 'Other',
     options: [
       {
         name: '1024pt',
